@@ -2,5 +2,6 @@
 "nome":"luiz carlos",
 "idade": 36,
 "profissao":"desenvolvedor",
-"sexo":"M"
+"sexo":"M",
+"address":"Rua 1"
 }
